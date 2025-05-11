@@ -1,0 +1,21 @@
+{
+
+    "userSuccess":{
+      "username": "Dina20",
+      "password": "s3cret"
+    },
+    "userNameFail":{
+      "username": "testefail",
+      "password": "s3cret"
+    },
+    "userPasswordFail":{
+      "username": "Dina20",
+      "password": "testefail"
+    },
+    "signup":{
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "teste"
+    }
+  }
