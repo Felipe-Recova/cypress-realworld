@@ -74,6 +74,215 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "cEoAF5BOq",
+      "uuid": "82e00c8c-0f57-4ac7-8e58-d7a53e89afa4",
+      "firstName": "teste",
+      "lastName": "teste",
+      "username": "teste",
+      "password": "$2a$10$mFGkIaeQkSDfrRoEXKsGFuEsZdB83YlCFqfz3G5fLg8r5RxEztmXK",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:11:02.160Z",
+      "modifiedAt": "2025-05-11T21:11:02.160Z"
+    },
+    {
+      "id": "4Wi1rvYjA",
+      "uuid": "8d3fea01-dfcc-47aa-a221-f23643b2cbec",
+      "firstName": "teste123",
+      "lastName": "teste987",
+      "username": "teste123987",
+      "password": "$2a$10$14YmRx/5v7LDSA5YsI8t8.Ama.BiisYjsWFeJ39qSE.U2l/aMjKiW",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:11:49.199Z",
+      "modifiedAt": "2025-05-11T21:11:49.199Z"
+    },
+    {
+      "id": "3DUT-2Y-J",
+      "uuid": "164f8647-1189-4807-b657-884de592fc6a",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$bBqaP8E3ESb.8j6nFd4xe.2lvg.cqxJiqeCBdwLHJnM6nkLO.y/Ei",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:28:30.395Z",
+      "modifiedAt": "2025-05-11T21:28:30.395Z"
+    },
+    {
+      "id": "Zld6wRCX8",
+      "uuid": "d02aa7d4-3217-43d1-b264-1a498d95c697",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$mRrjUPUs4dPwt9uBZjGnx.urFgRogXFt5j19dtrQavAu/C9Xha9/u",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:32:34.131Z",
+      "modifiedAt": "2025-05-11T21:32:34.131Z"
+    },
+    {
+      "id": "RRp_z1Ocv",
+      "uuid": "74bca84d-d19a-4cb5-ba56-eef7718bb87a",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$R16gDfJ3NEUUzJ.XbT9jv.6KaDBFpsYkGPkL2dxZ6WFq.3SUjOLiC",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:36:47.060Z",
+      "modifiedAt": "2025-05-11T21:36:47.060Z"
+    },
+    {
+      "id": "buW7z-MyG",
+      "uuid": "ab4a7190-af44-417b-a5bf-05e668a51da8",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$wxZsjSkDejUvCebEzf1iSeCnluBy/vbtrCtEegvi3oZwyd47FCRSq",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:37:13.050Z",
+      "modifiedAt": "2025-05-11T21:37:13.050Z"
+    },
+    {
+      "id": "a44t8_bLl",
+      "uuid": "02a65212-2808-4b27-83b0-86bedb9402cb",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$OtvTV5.zhAtIPQR1/OcyMO7tNeryauNnr2pvKlOp0LSG8upufhoiu",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:37:23.387Z",
+      "modifiedAt": "2025-05-11T21:37:23.387Z"
+    },
+    {
+      "id": "1onvsFoRi",
+      "uuid": "d2bbff85-dc32-4ea2-97d9-2888723504ff",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$zN1kDRCgYVL94ot4resjkeN2He7r1CYnQep7gm/e20GCu.eJ2vCNG",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:37:52.190Z",
+      "modifiedAt": "2025-05-11T21:37:52.190Z"
+    },
+    {
+      "id": "nmFigUhSX",
+      "uuid": "197c058c-7ec6-4eff-bb11-cfda52c9a7ea",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$FFbAe5yggGOwTKYaljVZFObqq5kGjpCxARIiTWwBb5v2QLFm5xDkC",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:41:58.001Z",
+      "modifiedAt": "2025-05-11T21:41:58.001Z"
+    },
+    {
+      "id": "28RZbBbD5",
+      "uuid": "07002784-dcb2-4210-a498-dbb58212c553",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$1VXYN3hdyH4mYX2ybf6QA.tgYsIPwFoPWH9LNhkyndQBFLOsKrIde",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:56:36.319Z",
+      "modifiedAt": "2025-05-11T21:56:36.319Z"
+    },
+    {
+      "id": "6BKoEXsiz",
+      "uuid": "b09387be-7e8d-48ba-8a01-64b426bd1583",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$neZwoco0k9vrqZoH55WM7OhdWs6/eNinB36tZaSQcr8uMoBT41elS",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:57:30.715Z",
+      "modifiedAt": "2025-05-11T21:57:30.715Z"
+    },
+    {
+      "id": "8esfW0vkz",
+      "uuid": "3b2fa787-7582-4d51-9705-020e086f4365",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$2F.gbiiodAiLFNqiQbkhlOfk7s6r8VHwnGszEmfuu5NSzwpohT3ym",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:58:17.849Z",
+      "modifiedAt": "2025-05-11T21:58:17.849Z"
+    },
+    {
+      "id": "JHvELBBwP",
+      "uuid": "f7e3efb7-301c-4088-b1a9-4445b55c018b",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$/wMpg.uSF.ZF80Eu8Qj2cegYs92i/S0jDcp4glGnxwiHYbzT7KVM.",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:58:40.682Z",
+      "modifiedAt": "2025-05-11T21:58:40.682Z"
+    },
+    {
+      "id": "bK25BvXye",
+      "uuid": "85f7eb82-01f7-4575-ac01-75bbe27a7513",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$0XhykK7G3MAh1L1ewGX5z.xAc1a2A7CtJMbnkbFAfKHaz91MzyGMe",
+      "balance": 0,
+      "createdAt": "2025-05-11T21:59:45.326Z",
+      "modifiedAt": "2025-05-11T21:59:45.326Z"
+    },
+    {
+      "id": "qOopo5MCB",
+      "uuid": "51c9bfb3-8cf7-4d96-b4dd-ffe31a8d9422",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$ni7psBa0D53yCiBRupwwpuBXAwAFtmqLmekCmUUXXM583qJgkLB3O",
+      "balance": 0,
+      "createdAt": "2025-05-11T22:02:46.250Z",
+      "modifiedAt": "2025-05-11T22:02:46.250Z"
+    },
+    {
+      "id": "mP0Zo6y8B",
+      "uuid": "3c0b97e9-efe8-4489-b24f-e33876ae907c",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$vosZkjsfz4enPz6OXCYlLeRbt4CMb8lnP4sIBBBs4iEnqcAJr9tfi",
+      "balance": 0,
+      "createdAt": "2025-05-11T22:05:56.604Z",
+      "modifiedAt": "2025-05-11T22:05:56.604Z"
+    },
+    {
+      "id": "-RMayBf4Q",
+      "uuid": "b8837842-b1a4-458c-a336-bc9f96d1a904",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$GbBU3wNqh8j/5QqDsQiCc.zLlm97BAaLlCbg1DlKRJAjStSqD3kg.",
+      "balance": 0,
+      "createdAt": "2025-05-11T22:06:24.585Z",
+      "modifiedAt": "2025-05-11T22:06:24.585Z"
+    },
+    {
+      "id": "e4tEQ2Esl",
+      "uuid": "6037d0e6-9528-4234-9ffe-0bab849cc948",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$hssZiUDpCXl/ONyTNr5b8OXdNTcXTgeelpxM5wG3aErJGerZpzZMq",
+      "balance": 0,
+      "createdAt": "2025-05-11T22:06:44.275Z",
+      "modifiedAt": "2025-05-11T22:06:44.275Z"
+    },
+    {
+      "id": "mZFRtVu-3",
+      "uuid": "8e26f587-4b01-451a-a3b0-4a454ed47a1e",
+      "firstName": "Felipe",
+      "lastName": "Recova",
+      "username": "FelRec",
+      "password": "$2a$10$cTsgCCpmUvFRVqU3qy05ieawbQIunNgU0UBvc/Hfxk45tA3PacM0C",
+      "balance": 0,
+      "createdAt": "2025-05-11T22:07:05.883Z",
+      "modifiedAt": "2025-05-11T22:07:05.883Z"
     }
   ],
   "contacts": [
@@ -253,6 +462,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "XeLazSIEr",
+      "uuid": "958f9764-5917-4fd0-bbc8-84ab7ebb8aee",
+      "userId": "cEoAF5BOq",
+      "bankName": "teste",
+      "accountNumber": "234567889788",
+      "routingNumber": "233445566",
+      "isDeleted": false,
+      "createdAt": "2025-05-11T21:14:24.548Z",
+      "modifiedAt": "2025-05-11T21:14:24.548Z"
     }
   ],
   "transactions": [
