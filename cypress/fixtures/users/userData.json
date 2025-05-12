@@ -2,7 +2,8 @@
 
     "userSuccess":{
       "username": "Dina20",
-      "password": "s3cret"
+      "password": "s3cret",
+      "usernameLabel": "@Dina20"
     },
     "userNameFail":{
       "username": "testefail",
@@ -17,5 +18,15 @@
       "lastName": "Recova",
       "username": "FelRec",
       "password": "teste"
+    },
+    "bankUsers":{
+      "bankUser1": "Ted Parisian",
+      "bankUser2": "Kristian Bradtke",
+      "bankUser3": "Ruthie Prosacco",
+      "bankUser4": "Lia Rosenbaum"
+    },
+    "userWithoutTransactions":{
+      "username": "silmarillion",
+      "password": "Silmarillion@5555"
     }
   }
