@@ -1,12 +1,14 @@
 import userData from '../fixtures/users/userData.json'
-import LoginPage from '../pages/loginPages.js'
+import LoginPage from '../pages/loginPage.js'
+import HomePage from '../pages/homePage.js'
 const loginPage= new LoginPage()
+const homePage= new HomePage()
 
 describe('Login', () => {
   it('Login success', () => {
     loginPage.accessLoginPage()
     loginPage.loginWithAnyUser(userData.userSuccess.username, userData.userSuccess.password)
-    //dashboardPage.validateDashboardPage()
+    homePage.validateUsername(userData.userSuccess.usernameLabel)
   })
 
   it('Login fail', () => {
