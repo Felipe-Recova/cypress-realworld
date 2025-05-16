@@ -18,7 +18,7 @@ describe('TransactionsHistory', () => {
   })
   it('No Transaction History Exibition', () => {
     loginPage.accessLoginPage()
-    loginPage.loginWithAnyUser(userData.userWithoutTransactions.username, userData.userWithoutTransactions.password)
+    loginPage.loginWithAnyUser(userData.signup.username, userData.signup.password)
     homePage.mineAcess()
     transactionsHistory.noTransactionHistory()
   })
