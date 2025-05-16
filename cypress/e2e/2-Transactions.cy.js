@@ -25,4 +25,13 @@ describe('Transactions', () => {
     transactionsPage.fillTransactionRequest(userData.bankUsers.bankUser2)
     transactionsPage.confirmTransactionRequest(userData.bankUsers.bankUser2)
   })
+  it.only('Pay Transaction with validation of insufficient balance', () => {
+    loginPage.accessLoginPage()
+    loginPage.loginWithAnyUser(userData.userSuccess.username, userData.userSuccess.password)
+    homePage.validateUsername(userData.userSuccess.usernameLabel)
+    homePage.newTransaction()
+    transactionsPage.searchBankUser(userData.bankUsers.bankUser1)
+    transactionsPage.validateInsufficientFundsMessage()
+})
+
 })

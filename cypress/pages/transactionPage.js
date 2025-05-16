@@ -6,7 +6,10 @@ class TransactionsPage{
             amountField: "#amount",
             descriptionNoteField: "#transaction-create-description-input",
             payButton: "[data-test='transaction-create-submit-payment']",
-            requestButton: "[data-test='transaction-create-submit-request']"
+            requestButton: "[data-test='transaction-create-submit-request']",
+            userBalance: "[data-test='sidenav-user-balance']",
+            amountErrorMessage: "#transaction-create-amount-input-helper-text"
+
         }
         return selectors
     }
@@ -39,6 +42,21 @@ class TransactionsPage{
     validateUsername(usernameLabel){
             cy.get(this.selectorsList().usernameLabel).should("contain", usernameLabel).should("be.visible")
     }
+
+    validateInsufficientFundsMessage() {
+        cy.get(this.selectorsList().userBalance)
+          .invoke('text')
+          .then((balanceText) => {
+        const numericBalance = parseFloat(balanceText.replace(/[$,]/g, ''))
+        const invalidAmount = (numericBalance + 10).toFixed(2) 
+
+        cy.get(this.selectorsList().amountField).clear().type(invalidAmount)
+        cy.get(this.selectorsList().descriptionNoteField).clear().type(`Teste com valor acima do saldo ($${invalidAmount})`)
+        cy.get(this.selectorsList().payButton).click()
+        cy.get(this.selectorsList().amountErrorMessage).should('be.visible').and('contain', 'The amount to be paid must be less than your balance')
+    })
+}
+
 
 }
 
